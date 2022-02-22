@@ -83,11 +83,10 @@ shikhar@MacBook~ $ bash start
 - Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
 - Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
 
-## Contact & Support
+## credits
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [AASF CYBERKING](https://t.me/AASF_CYBERKING)
+- [HMF HACKER](https://t.me/HMF_Owner_1)
 
 
 ## License
