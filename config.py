@@ -6,7 +6,6 @@ load_dotenv()
 
 # VARS
 
-UPSTREAM_REPO = "https://github.com/Thiruselvan999/Hottie-X-Music"
 get_queue = {}
 BOT_TOKEN = getenv("BOT_TOKEN")
 API_ID = int(getenv("API_ID", ""))
@@ -20,7 +19,9 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-
+UPSTREAM_REPO = getenv(
+    "UPSTREAM_REPO", "https://github.com/Thiruselvan999/Hottie-X-Music"
+)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 if str(getenv("SUPPORT_CHANNEL")).strip() == "":
